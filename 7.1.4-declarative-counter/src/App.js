@@ -6,10 +6,12 @@ function App(){
     return (
     <div>
         <h1>{counter}</h1>
-        <h4>{counter}</h4>
+        <h5>{counter}</h5>
     </div>
         
     )
 }
 
 export default App;
+
+//changed h4 tag to h5 just because//
